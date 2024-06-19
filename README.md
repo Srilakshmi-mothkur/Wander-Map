@@ -20,6 +20,7 @@ Wander Map is an advanced travel companion application built using React and Goo
 - **Axios**: HTTP client for making API requests.
 
   ![WhatsApp Image 2024-06-19 at 22 31 00_fa0a3912](https://github.com/Srilakshmi-mothkur/wander-map/assets/110167522/e39c5729-d686-45c1-9198-819b196935aa)
+  
   ![WhatsApp Image 2024-06-19 at 22 32 10_8a74776c](https://github.com/Srilakshmi-mothkur/wander-map/assets/110167522/7bf400b7-4311-4394-88ae-d9c281aef18c)
   
 
